@@ -7,3 +7,8 @@ Color is converted according to its pixel value, floating point decimal is conve
 characters are converted based on their ASCII notation. 
 The "Clear" button resets the form. 
 
+## Application Snapshot
+
+![Alt text](Snapshot.png)
+
+
